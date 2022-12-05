@@ -2,3 +2,22 @@
 *  {
     font-family: 'Montserrat', sans-serif;
 }
+
+.m-btt {
+    margin-bottom: 2em;
+}
+
+.box {
+    min-height: 3em;
+    width: 100%;
+    padding: 1em;
+    background-color: #006CFA;
+    color: white;
+    border: 1px solid white;
+    text-align: center;
+}
+
+.box.nested-box {
+    background-color: #00E165;
+    border: 1px solid #006CFA;
+}
