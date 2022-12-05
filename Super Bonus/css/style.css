@@ -1,0 +1,37 @@
+/* FONT */
+*  {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.m-top {
+    margin-top: 3em;
+}
+
+.box {
+    height: calc(50vh / 12);
+    width: 100%;
+}
+
+.box.red {
+    background-color: #FE0000;
+}
+
+.box.brown {
+    background-color: #804616;
+}
+
+.box.skin {
+    background-color: #FFAD61;
+}
+
+.box.black {
+    background-color: black;
+}
+
+.box.blue {
+    background-color: #3F51B5;
+}
+
+.box.yellow {
+    background-color: #FFEB3C;
+}
